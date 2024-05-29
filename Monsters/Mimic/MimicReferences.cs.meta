@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cee3217ceb9798447971f3b3302f094c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - navMeshAgent: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - playerStats: {instanceID: 0}
+  - prefab: {fileID: 265810676959030382, guid: 34c6d3e9c066c384da73e21b12c4cea7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
