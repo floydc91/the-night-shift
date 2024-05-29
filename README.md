@@ -7,3 +7,7 @@ Due to the usage of paid assets, I am not able to showcase the game's entire cod
 ## Video Trailer
 https://www.youtube.com/watch?v=I3SZ38sehRE
 
+## Features
+-Unique monsters, items, and quests
+-Mutliplayer functionality including proximity chat
+-Procedurally generated dungeons
