@@ -9,5 +9,7 @@ https://www.youtube.com/watch?v=I3SZ38sehRE
 
 ## Features
 -Unique monsters, items, and quests
+
 -Mutliplayer functionality including proximity chat
+
 -Procedurally generated dungeons
